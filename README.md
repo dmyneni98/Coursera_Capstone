@@ -20,4 +20,7 @@ Results
   ![image](https://user-images.githubusercontent.com/54012958/96352005-90be0880-1085-11eb-927b-a1952bf2b44a.png)
 
 Discussion 
+
+  Based on the bar plots, for the address type block has a lot more accidents that resulted in property damage more than any kind of injury. While accidents that occured at an intersection had almost an equal number of accidents that resulted in injury versus accidents that resulted in property damage. Alleys had very minimal amount of accidents that only resulted in property damage but this could be attributed to the fact that alleys are not part of the roads that are generally travelled often. Alleys are also close to building, so they generally have lower speed limits as well as drivers being more conscious because they are generally not well lit either. 
+  The bar plot results for the correlation between weather conditions and accident severity surprised me because most amount of accidents occured when the weather was clear. I hypothesized that most accidents would occur during the rain or snow because of the lower visibility. But the bar plots display that most accidents occured when the sky was clear with the accidents that only had property damange being almost double the amount of accidents that had injuries that occured. The blowing sand and dirt, smoke, crosswind and freezing rain had almost no accidents occuring during those times, this could be attributed to the fact that 
 Conclusion 
