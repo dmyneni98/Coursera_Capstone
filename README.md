@@ -27,4 +27,5 @@ Discussion
   This bar plot if comparable to the bar plot that showed correlation between weather conditions and accident severity. This plot shows the correlation between road conditions and the count of the severity of the accident. Opposite to what I predicted, dry conditions had more accidents but the accidents that resulted in property damange were almost twice as many as those that resulted in injury as well. This condition applied to the accidents that occured when roads were wet as well. This could be due to the fact that people go faster when the road are in better conditions for driving. 
   
 Conclusion 
+  
   Finally, I would caution people to be more careful when the weather and road conditions are more favorable because more people goe at higher speeds as well as more people being on the road itself. I would recommend that the police have more presence on the road when the sky is clear, during the daytime and when the road is dry because my analysis portrayed that more accidents that result only in property damage as well as more accidents that result in injury occur when the conditions that a driver is driving in are more favorable. 
