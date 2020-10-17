@@ -10,6 +10,8 @@ Data
 Methodology
 
   For this project, I used bar plots to visualize the categorical data given. I plotted the variables addresstype, weather, light conditions and road conditions as four seperate bar plots. With the severity of the accidents as the series and count as the y variables. This helped me perform exploritory analysis on the data with the visualization tools to help me analyze the data to see which conditions correlated with more accidents as well as the severity of the accidents. 
+  ![image](https://user-images.githubusercontent.com/54012958/96351787-5c494d00-1083-11eb-8299-861f1c3a82e8.png)
+
   
 Results
 
