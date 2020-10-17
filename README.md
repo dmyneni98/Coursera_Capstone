@@ -16,10 +16,8 @@ Methodology
 Results
 
   Results for this project were bar plots that clearly display the conditions in which the driver was driving versus the count of the severity of the accident.  
-
-
-
-
+  
+  ![image](https://user-images.githubusercontent.com/54012958/96352005-90be0880-1085-11eb-927b-a1952bf2b44a.png)
 
 Discussion 
 Conclusion 
