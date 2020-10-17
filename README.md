@@ -31,4 +31,4 @@ Discussion
   
 Conclusion 
   
-  Finally, I would caution people to be more careful when the weather and road conditions are more favorable because more people goe at higher speeds as well as more people being on the road itself. I would recommend that the police have more presence on the road when the sky is clear, during the daytime and when the road is dry because my analysis portrayed that more accidents that result only in property damage as well as more accidents that result in injury occur when the conditions that a driver is driving in are more favorable. 
+  Finally, I would caution people to be more careful when the weather and road conditions are more favorable because more people go at higher speeds as well as more people being on the road itself. I would recommend that the police have more presence on the road when the sky is clear, during the daytime and when the road is dry because my analysis portrayed that more accidents that result only in property damage as well as more accidents that result in injury occur when the conditions that a driver is driving in are more favorable. 
